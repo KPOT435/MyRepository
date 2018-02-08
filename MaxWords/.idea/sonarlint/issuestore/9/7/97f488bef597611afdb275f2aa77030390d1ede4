@@ -1,0 +1,6 @@
+
+]squid:UnusedPrivateMethod"4Remove this unused private "inputValidation" method.(“›ç 8Šžýù–,
+[squid:S1118":Add a private constructor to hide the implicit public one.(á†Š…øÿÿÿÿ8Šžýù–,
+Qsquid:S1172"6Remove this unused method parameter "commandLineArgs".(“›ç 8Šžýù–,
+œsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“›ç 8Šžýù–,
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(©²…¼ùÿÿÿÿ8Šžýù–,

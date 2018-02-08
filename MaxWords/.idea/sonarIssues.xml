@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/api/DriverBoxAPI_Impl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/driverBox/DriverBoxAbstractService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/mobile/GetTaxiAbstractService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/mobile/GettMobileUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/mobile/android/device/AndroidRealDevice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/mobile/android/device/Device.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-infra/src/main/java/com/gettaxi/automation/gettaxi_auto_infra/mobile/iphone/so/AppiumSO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/automation/AutomationRegression/automation-parent/gettaxi-auto-tests/src/main/java/com/gettaxi/automation/tests/orders/AbstractOrderTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsBusinessLogic/src/Functionality/BusinessLogic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsBusinessLogic/src/Functionality/Word.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsBusinessLogic/src/Functionality/WordsDictionary.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsMain/src/Homework/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsMain/src/homework/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/MaxWordsTests/src/UnitTesting/FunctionalTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/homework/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MaxWordsExercise/src/com/homework/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

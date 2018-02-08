@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaxWords.iml" filepath="$PROJECT_DIR$/MaxWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxWordsBusinessLogic/MaxWordsBusinessLogic.iml" filepath="$PROJECT_DIR$/MaxWordsBusinessLogic/MaxWordsBusinessLogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxWordsMain/MaxWordsMain.iml" filepath="$PROJECT_DIR$/MaxWordsMain/MaxWordsMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxWordsTests/MaxWordsTests.iml" filepath="$PROJECT_DIR$/MaxWordsTests/MaxWordsTests.iml" />
+    </modules>
+  </component>
+</project>
